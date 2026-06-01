@@ -65,6 +65,7 @@ Formulário de configuração dos limiares de alerta com validação.
 - Expo Go instalado no celular (iOS ou Android)
 
 ### Instalação
+
 Clone o repositório
 
 ```bash
