@@ -59,7 +59,7 @@ Formulário de configuração dos limiares de alerta com validação.
 - 
 ## Vídeo de Demonstração
 
-[Clique aqui para assistir à demonstração](https://youtube.com/shorts/L966AvnJurA))
+[Clique aqui para assistir à demonstração](https://youtube.com/shorts/L966AvnJurA)
 
 ## Como Executar
 
