@@ -67,11 +67,13 @@ Formulário de configuração dos limiares de alerta com validação.
 - Node.js instalado
 - Expo CLI: `npm install -g expo-cli`
 - Expo Go instalado no celular (iOS ou Android)
+<img width="191" height="230" alt="image" src="https://github.com/user-attachments/assets/b3103e5c-d525-4505-b98a-060cfe984916" />
+
+## Licença
+Este projeto foi desenvolvido para fins acadêmicos — FIAP 2026.
 
 ### Instalação
 Clone o repositório
 ```bash
 git clone [https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git](https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git)
 
-## Licença
-Este projeto foi desenvolvido para fins acadêmicos — FIAP 2026.
