@@ -82,6 +82,7 @@ Inicie o projeto
 npx expo start
 ```
 Escaneie o QR Code com o Expo Go para rodar no dispositivo físico.
+
 <img width="191" height="230" alt="image" src="https://github.com/user-attachments/assets/b3103e5c-d525-4505-b98a-060cfe984916" />
 
 ## Vídeo de Demonstração
