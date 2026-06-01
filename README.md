@@ -57,6 +57,8 @@ Formulário de configuração dos limiares de alerta com validação.
 - Context API
 - TypeScript
 
+[Clique aqui para assistir à demonstração](https://youtube.com/shorts/L966AvnJurA))
+
 ## Como Executar
 
 ### Pré-requisitos
