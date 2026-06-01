@@ -18,7 +18,7 @@ Este aplicativo é uma plataforma inteligente de análise preditiva para monitor
 ### Home
 Dashboard Principal
 
-<img width="378" height="744" alt="image" src="https://github.com/user-attachments/assets/4458fe6f-1bdc-479b-a8e3-0363f68fd592" />
+<img width="367" height="783" alt="image" src="https://github.com/user-attachments/assets/ad988be3-75f2-4190-b46f-03a1d8243224" />
 
 Visão geral dos indicadores da missão: energia, temperatura, sinal e estabilidade orbital.
 
