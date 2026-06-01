@@ -1,7 +1,8 @@
 # Home do Projeto
 ### Global Solution 2026.1 - Cross-Platform Application Development | FIAP
 
-![Banner do Projeto](<img width="371" height="803" alt="image" src="https://github.com/user-attachments/assets/e9138435-01ce-4a63-9267-249bac76744e" />
+<img width="371" height="803" alt="image" src="https://github.com/user-attachments/assets/09f9e214-fc8b-437d-8474-ab69f5cd5248" />
+(<img width="371" height="803" alt="image" src="https://github.com/user-attachments/assets/e9138435-01ce-4a63-9267-249bac76744e" />
 )
 
 ## Descrição
