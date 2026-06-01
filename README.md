@@ -1,7 +1,8 @@
 # Home do Projeto
 ### Global Solution 2026.1 - Cross-Platform Application Development | FIAP
 
-![Banner do Projeto](./assets/banner.png)
+![Banner do Projeto](<img width="371" height="803" alt="image" src="https://github.com/user-attachments/assets/e9138435-01ce-4a63-9267-249bac76744e" />
+)
 
 ## Descrição
 Este aplicativo é uma plataforma inteligente de análise preditiva para monitoramento de sistemas espaciais e operações orbitais simuladas. Ele resolve problemas de gestão de recursos críticos fornecendo dashboards interativos, interpretação inteligente de dados e um sistema de alertas automatizado, garantindo a tomada de decisão rápida e a segurança aeroespacial da missão.
