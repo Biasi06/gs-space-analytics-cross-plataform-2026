@@ -69,7 +69,7 @@ Formulário de configuração dos limiares de alerta com validação.
 Clone o repositório
 
 ```bash
-git clone [https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git](https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git)
+git clone [[https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git](https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git)](https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git)
 ```
 Acesse a pasta do projeto
 ```bash
