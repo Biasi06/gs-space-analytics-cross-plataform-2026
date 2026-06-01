@@ -17,20 +17,27 @@ Este aplicativo é uma plataforma inteligente de análise preditiva para monitor
 
 ### Home
 Dashboard Principal
+
 <img width="378" height="744" alt="image" src="https://github.com/user-attachments/assets/4458fe6f-1bdc-479b-a8e3-0363f68fd592" />
 
 Visão geral dos indicadores da missão: energia, temperatura, sinal e estabilidade orbital.
 
 ### Dashboard de Sensores
+
 <img width="366" height="748" alt="image" src="https://github.com/user-attachments/assets/08238045-f229-4bab-a8a7-ea93eb496669" />
+
 Gráfico de linha com leituras dos sensores em tempo real simulado.
 
 ### Dashboard de Energia
+
 <img width="371" height="742" alt="image" src="https://github.com/user-attachments/assets/2b107d98-b8d3-46c9-bd28-3f8842c328cc" />
+
 Indicadores de carga dos painéis solares e consumo dos sistemas.
 
 ### Configurações / Formulário
+
 <img width="374" height="756" alt="image" src="https://github.com/user-attachments/assets/17d75d21-33dd-4e36-af71-99295c9d67cc" />
+
 Formulário de configuração dos limiares de alerta com validação.
 
 ## Funcionalidades
