@@ -56,24 +56,38 @@ Formulário de configuração dos limiares de alerta com validação.
 - AsyncStorage
 - Context API
 - TypeScript
-- 
-## Vídeo de Demonstração
-
-[Clique aqui para assistir à demonstração](https://youtube.com/shorts/L966AvnJurA)
-
+  
 ## Como Executar
 
 ### Pré-requisitos
 - Node.js instalado
 - Expo CLI: `npm install -g expo-cli`
 - Expo Go instalado no celular (iOS ou Android)
-<img width="191" height="230" alt="image" src="https://github.com/user-attachments/assets/b3103e5c-d525-4505-b98a-060cfe984916" />
-
-## Licença
-Este projeto foi desenvolvido para fins acadêmicos — FIAP 2026.
 
 ### Instalação
 Clone o repositório
 ```bash
 git clone [https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git](https://github.com/Biasi06/gs-space-analytics-cross-plataform-2026.git)
+```
+Acesse a pasta do projeto
+```bash
+cd gs-space-analytics-cross-plataform-2026
+```
+Instale as dependências
+```bash
+npm install
+```
+Inicie o projeto
+```bash
+npx expo start
+```
+Escaneie o QR Code com o Expo Go para rodar no dispositivo físico.
+<img width="191" height="230" alt="image" src="https://github.com/user-attachments/assets/b3103e5c-d525-4505-b98a-060cfe984916" />
+
+## Vídeo de Demonstração
+
+[Clique aqui para assistir à demonstração](https://youtube.com/shorts/L966AvnJurA)
+
+## Licença
+Este projeto foi desenvolvido para fins acadêmicos — FIAP 2026.
 
